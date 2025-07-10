@@ -23,13 +23,5 @@ A real-time chat application built with **PHP**, **JavaScript**, and **MySQL**. 
 - **Database:** MySQL (chatapp.sql schema included)
 
 ---
-
-## 🧑‍💻 Setup Instructions
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/ChatApp.git
-   cd ChatApp
-
 ## Developed By
 **Sneha Kumari**
